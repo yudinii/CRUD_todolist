@@ -43,12 +43,3 @@ Open local port to view it in the browser.
 http://localhost:5173
 //Note: If port 5173 is in use, the project may automatically use another available port (e.g., 5174).
 ```
-
-#### Available Scripts
-
-| Script        | Description                                                             |
-| ------------- | ----------------------------------------------------------------------- |
-| npm start     | Runs the app in the development mode.                                   |
-| npm test      | Launches the test runner in the interactive watch mode.                 |
-| npm run build | Builds the app for production to the `build` folder.                    |
-| npm run eject | This command will remove the single build dependency from your project. |
