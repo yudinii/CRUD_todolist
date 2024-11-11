@@ -34,10 +34,15 @@ npm install
 Start a local web server by running:
 
 ```
-npm start
+npm run dev
 ```
 
-Open http://localhost:3000 to view it in the browser.
+Open local port to view it in the browser.
+
+```
+http://localhost:5173
+//Note: If port 5173 is in use, the project may automatically use another available port (e.g., 5174).
+```
 
 #### Available Scripts
 
