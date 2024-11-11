@@ -18,7 +18,7 @@
 
 ## Development
 
-To get a local copy of the code:
+To get a local copy:
 
 ```
 git clone https://github.com/yudinii/CRUD_todolist.git
