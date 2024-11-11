@@ -9,7 +9,7 @@
 </p>
 
 ![todolist-listview](public/todolist-list.png)
-![todolist-calendarview](public/todolist-calender.png)
+![todolist-calendarview](public/todolist-calendar.png)
 
 ## Technologies Used
 
