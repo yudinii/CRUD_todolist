@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  A simple To-do list <a href="https://www.codecademy.com/articles/what-is-crud">CRUD</a> application built with <a href="https://reactjs.org">React</a>.
+  A simple To-do list <a href="https://www.codecademy.com/articles/what-is-crud">CRUD</a> application built with <a href="https://reactjs.org">React</a>
 </p>
 
 ![todolist-listview](public/todolist-list.png)
