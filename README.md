@@ -43,4 +43,4 @@ Open local port to view it in the browser.
 http://localhost:5173
 ```
 
-- Note: If port 5173 is in use, the project may automatically use another available port (e.g., 5174)
+- **Note**: If port 5173 is in use, the project may automatically use another available port (e.g., 5174)
